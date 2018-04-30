@@ -1,0 +1,75 @@
+.picture {
+
+}
+
+.desc{
+    width: 300px;
+}
+
+.cursive{
+    font-style: italic;
+}
+
+.slide pre code{
+    line-height: 1.5;
+}
+
+.example{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex .desc{
+    width: auto;
+}
+.example .picture-arrow{
+    position: absolute;
+}
+
+.example-1{
+    align-items: center;
+}
+.picture-example{
+    height: 110px;
+    overflow: hidden;
+}
+
+.example-1 .picture-arrow{
+    transform: scale(0.6) rotate(158deg);
+    top: 60px;
+    left: 233px;
+}
+
+.example-2 .picture-arrow{
+    transform: scale(0.6) rotate(175deg);
+    top: 60px;
+    left: 117px;
+}
+
+.example-2 .desc, .example-3 .desc{
+    width: 440px;
+}
+
+.example-3 .picture-example{
+    height: 130px;
+}
+
+.example-2 .picture-arrow, .example-3 .picture-arrow{
+    transform: scale(0.6) rotate(175deg);
+    top: 60px;
+    left: 117px;
+}
+
+.desc-sm {
+    width: auto;
+    line-height: 1.6;
+}
+
+.single-picture .picture{
+    text-align: center;
+}
