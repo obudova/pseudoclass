@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261112df-61e2-4e6e-bb71-2ac7e22b4dc3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="261112df-61e2-4e6e-bb71-2ac7e22b4dc3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,44 +24,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
               <folding>
-                <element signature="e#528#532#0" expanded="true" />
-                <element signature="e#533#537#0" expanded="true" />
-                <element signature="e#889#893#0" expanded="true" />
-                <element signature="e#894#898#0" expanded="true" />
-                <element signature="e#1361#1365#0" expanded="true" />
-                <element signature="e#1366#1370#0" expanded="true" />
-                <element signature="e#1992#1996#0" expanded="true" />
-                <element signature="e#1997#2001#0" expanded="true" />
-                <element signature="e#2675#2679#0" expanded="true" />
-                <element signature="e#2680#2684#0" expanded="true" />
-                <element signature="e#2945#2949#0" expanded="true" />
-                <element signature="e#2950#2954#0" expanded="true" />
-                <element signature="e#5859#5863#0" expanded="true" />
-                <element signature="e#5873#5877#0" expanded="true" />
-                <element signature="e#5937#5941#0" expanded="true" />
-                <element signature="e#5951#5955#0" expanded="true" />
+                <element signature="e#509#513#0" expanded="true" />
+                <element signature="e#514#518#0" expanded="true" />
+                <element signature="e#870#874#0" expanded="true" />
+                <element signature="e#875#879#0" expanded="true" />
+                <element signature="e#1342#1346#0" expanded="true" />
+                <element signature="e#1347#1351#0" expanded="true" />
+                <element signature="e#1973#1977#0" expanded="true" />
+                <element signature="e#1978#1982#0" expanded="true" />
+                <element signature="e#2656#2660#0" expanded="true" />
+                <element signature="e#2661#2665#0" expanded="true" />
+                <element signature="e#2926#2930#0" expanded="true" />
+                <element signature="e#2931#2935#0" expanded="true" />
+                <element signature="e#5840#5844#0" expanded="true" />
+                <element signature="e#5854#5858#0" expanded="true" />
+                <element signature="e#5918#5922#0" expanded="true" />
+                <element signature="e#5932#5936#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>разно</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -159,7 +161,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="614000" />
+    <option name="totallyTimeSpent" value="740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="748" extended-state="6" />
@@ -205,25 +207,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        <state relative-caret-position="69">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding>
-            <element signature="e#528#532#0" expanded="true" />
-            <element signature="e#533#537#0" expanded="true" />
-            <element signature="e#889#893#0" expanded="true" />
-            <element signature="e#894#898#0" expanded="true" />
-            <element signature="e#1361#1365#0" expanded="true" />
-            <element signature="e#1366#1370#0" expanded="true" />
-            <element signature="e#1992#1996#0" expanded="true" />
-            <element signature="e#1997#2001#0" expanded="true" />
-            <element signature="e#2675#2679#0" expanded="true" />
-            <element signature="e#2680#2684#0" expanded="true" />
-            <element signature="e#2945#2949#0" expanded="true" />
-            <element signature="e#2950#2954#0" expanded="true" />
-            <element signature="e#5859#5863#0" expanded="true" />
-            <element signature="e#5873#5877#0" expanded="true" />
-            <element signature="e#5937#5941#0" expanded="true" />
-            <element signature="e#5951#5955#0" expanded="true" />
+            <element signature="e#509#513#0" expanded="true" />
+            <element signature="e#514#518#0" expanded="true" />
+            <element signature="e#870#874#0" expanded="true" />
+            <element signature="e#875#879#0" expanded="true" />
+            <element signature="e#1342#1346#0" expanded="true" />
+            <element signature="e#1347#1351#0" expanded="true" />
+            <element signature="e#1973#1977#0" expanded="true" />
+            <element signature="e#1978#1982#0" expanded="true" />
+            <element signature="e#2656#2660#0" expanded="true" />
+            <element signature="e#2661#2665#0" expanded="true" />
+            <element signature="e#2926#2930#0" expanded="true" />
+            <element signature="e#2931#2935#0" expanded="true" />
+            <element signature="e#5840#5844#0" expanded="true" />
+            <element signature="e#5854#5858#0" expanded="true" />
+            <element signature="e#5918#5922#0" expanded="true" />
+            <element signature="e#5932#5936#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -233,6 +235,47 @@
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#509#513#0" expanded="true" />
+            <element signature="e#514#518#0" expanded="true" />
+            <element signature="e#870#874#0" expanded="true" />
+            <element signature="e#875#879#0" expanded="true" />
+            <element signature="e#1342#1346#0" expanded="true" />
+            <element signature="e#1347#1351#0" expanded="true" />
+            <element signature="e#1973#1977#0" expanded="true" />
+            <element signature="e#1978#1982#0" expanded="true" />
+            <element signature="e#2656#2660#0" expanded="true" />
+            <element signature="e#2661#2665#0" expanded="true" />
+            <element signature="e#2926#2930#0" expanded="true" />
+            <element signature="e#2931#2935#0" expanded="true" />
+            <element signature="e#5840#5844#0" expanded="true" />
+            <element signature="e#5854#5858#0" expanded="true" />
+            <element signature="e#5918#5922#0" expanded="true" />
+            <element signature="e#5932#5936#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
